@@ -11,3 +11,7 @@
     justify-content: center;
     width: 100%;
 }
+
+p {
+    font-family: "Fira Mono", sans-serif;
+}
