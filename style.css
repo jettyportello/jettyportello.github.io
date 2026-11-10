@@ -13,8 +13,5 @@
 }
 
 .secret {
-    display: flex;
     margin-top: 50000px;
-    justify-content: center;
-    width: 100%;
 }
