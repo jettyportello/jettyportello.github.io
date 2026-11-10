@@ -4,3 +4,8 @@
     align-items: center;
     gap: 10px;
 }
+
+.fuck-face {
+    display: flex;
+    justify-content: center;
+}
